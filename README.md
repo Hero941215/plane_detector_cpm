@@ -37,6 +37,5 @@ Clone the repository and catkin_make:
 
 ## 4. Acknowledgments
 
-Thanks for [LeGo-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM), [ndt_localizer](https://github.com/AbangLZU/ndt_localizer).
-
+Thanks for [plane_detector](https://github.com/robotics-upo/plane_detector).
 
