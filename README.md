@@ -6,7 +6,7 @@
 Extract a set of structural plane points from range image using region growing algorithm. In order to address common occlusion problem, this algorithm uses a planar set based on the closest point representation to construct a kd-tree, and merges adjacent planar point sets that are less than the distance threshold.
 
 ## 1. Prerequisites
-### 1.1 **Ubuntu**
+### 1.1 **Ubuntu** and **ROS**
 **Ubuntu >= 18.04**
 
 ROS    >= Melodic. [ROS Installation](http://wiki.ros.org/ROS/Installation)
